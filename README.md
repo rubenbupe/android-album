@@ -1,1 +1,2 @@
-# DAM_Practica1
+# Album (Android)
+Proyecto de DAM
